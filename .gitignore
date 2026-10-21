@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+data/city_hour.csv
+data/station_hour.csv
+data/station_day.csv
+data/extra/
